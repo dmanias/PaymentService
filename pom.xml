@@ -86,7 +86,7 @@
 						<image>openjdk:11</image>
 					</from>
 					<to>
-						<image>registry.hub.docker.com/dmanias/paymentservice</image>
+						<image>${REPO_URL}/paymentservice</image>
 						<tags>${project.version}</tags>
 					</to>
 				</configuration>
